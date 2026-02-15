@@ -16,7 +16,6 @@ The study utilizes panel data from 80+ Russian regions for the period 2021–202
 * **Control Variables:** GRP per capita, housing completion rates (supply-side), and average disposable income.
 
 ## 📈 Key Findings
-> *Summary of your results:*
 > 1. A 1% increase in net migration inflow has a statistically significant positive impact on secondary market prices.
 > 2. The effect of migration is more pronounced in regions with restricted housing supply.
 > 3. Regional income levels remain the strongest predictor, though migration acts as a significant catalyst in metropolitan areas.
